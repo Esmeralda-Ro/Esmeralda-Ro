@@ -3,13 +3,14 @@ my public profile
 
 ![Static Badge](https://img.shields.io/badge/python-blue)
 
-https://img.shields.io/badge/NLTK-red
+![Static Badge](https://img.shields.io/badge/NLTK-red)
 
-https://img.shields.io/badge/seabor-green
+![Static Badge](https://img.shields.io/badge/seabor-green)
 
-https://img.shields.io/badge/Matploot-brown
+![Static Badge](https://img.shields.io/badge/Matploot-brown)
 
-https://img.shields.io/badge/tableau-purple
+![Static Badge](https://img.shields.io/badge/tableau-purple)
+
 
 
 
